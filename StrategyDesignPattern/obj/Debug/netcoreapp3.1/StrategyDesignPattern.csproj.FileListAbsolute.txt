@@ -1,0 +1,14 @@
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.csproj.AssemblyReference.cache
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.AssemblyInfoInputs.cache
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.AssemblyInfo.cs
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.exe
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.deps.json
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.runtimeconfig.json
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.runtimeconfig.dev.json
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.dll
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\bin\Debug\netcoreapp3.1\StrategyDesignPattern.pdb
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.dll
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.pdb
+C:\Users\slad\source\repos\BehavioralDesignPattern\StrategyDesignPattern\obj\Debug\netcoreapp3.1\StrategyDesignPattern.genruntimeconfig.cache
